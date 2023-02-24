@@ -3,6 +3,7 @@ College Assignment to create a Multithreaded Indexing API that has a menu driven
 
 Submitted January 2023 for Advanced Object Orientated Programming Module.
 
+# Running
 
 Runnable using the following command: java --enable-preview -cp ./indexer.jar ie.atu.sw.Runner which
 enables the virtual threads preview features.
