@@ -24,10 +24,14 @@ should also expose a suite of methods appropriate to an index such as the follow
 O notation) and your rationale for its estimation.
 - Provide a UML class diagram of your design and fully JavaDoc your code.
 
+### Received Results: 90/100
+
 ## Running the API
 
 Download the jar file and from it stored directory it is runnable using the following command in CLI: `java --enable-preview -cp ./indexer.jar ie.atu.sw.Runner` which
 enables the virtual threads preview features.
+
+The Dictionary file `dictionary.csv` and Google's 1000 most common words `google-1000.txt` used during the project have also be been provided.
 
 ## Command Line User Interface
 
