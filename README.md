@@ -33,6 +33,12 @@ enables the virtual threads preview features.
 
 The Dictionary file `dictionary.csv` and Google's 1000 most common words `google-1000.txt` used during the project have also be been provided.
 
+Alternatively:
+
+1. Download src directory.
+2. Compile all Java files with the following command within src directory. `javac ie/atu/sw/*.java`
+3. Run the application with the following command. `java ie.atu.sw.Runner`
+
 ## Command Line User Interface
 
 **Options 1 through 4** are used to specify paths to files and index output location. These should all be
