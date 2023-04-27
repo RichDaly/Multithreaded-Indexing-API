@@ -24,7 +24,7 @@ should also expose a suite of methods appropriate to an index such as the follow
 O notation) and your rationale for its estimation.
 - Provide a UML class diagram of your design and fully JavaDoc your code. [design.png](https://github.com/RichDaly/Multithreaded_Indexing_API/blob/main/design.png)
 
-### Received Results: 90/100
+### Received Results: First Class Honours
 
 ## Running the API
 
