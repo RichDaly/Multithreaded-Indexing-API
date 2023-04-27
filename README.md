@@ -22,7 +22,7 @@ should also expose a suite of methods appropriate to an index such as the follow
 3. The top n most frequent / infrequent words
 - You must comment each method in your application stating its running time (in Big-
 O notation) and your rationale for its estimation.
-- Provide a UML class diagram of your design and fully JavaDoc your code.
+- Provide a UML class diagram of your design and fully JavaDoc your code. [design.png](https://github.com/RichDaly/Multithreaded_Indexing_API/blob/main/design.png)
 
 ### Received Results: 90/100
 
@@ -31,7 +31,7 @@ O notation) and your rationale for its estimation.
 Download the jar file and from it stored directory it is runnable using the following command in CLI: `java --enable-preview -cp ./indexer.jar ie.atu.sw.Runner` which
 enables the virtual threads preview features.
 
-The Dictionary file `dictionary.csv` and Google's 1000 most common words `google-1000.txt` used during the project have also be been provided.
+The Dictionary file [dictionary.csv](https://github.com/RichDaly/Multithreaded_Indexing_API/blob/main/dictionary.csv) and Google's 1000 most common words [google-1000.txt](https://github.com/RichDaly/Multithreaded_Indexing_API/blob/main/google-1000.txt) used during the project have also be been provided.
 
 Alternatively:
 
